@@ -1,9 +1,20 @@
 body {
   background-color: hsl(212, 45%, 89%);
 }
-.app{
-    background-color: hsl(0, 0%, 100%);
+.app {
+  background-color: hsl(0, 0%, 100%);
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 10px;
+  width: 250px;
+  height: auto;
 }
+.qr-wrapper {
+  background-color: hsl(218, 44%, 22%);
+  color: hsl(0, 0%, 100%);
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
