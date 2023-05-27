@@ -2,6 +2,7 @@ body {
   background-color: hsl(212, 45%, 89%);
   text-align: center;
   font-family: "Outfit", sans-serif;
+  margin: 100px auto;
 }
 h3 {
   font-size: 18px;
@@ -10,10 +11,9 @@ h3 {
   line-height: 1.5;
 }
 p {
-  opacity: 50%;
+  opacity: 60%;
   font-size: 15px;
   font-weight: 400px;
-  margin: 4px;
 }
 .app {
   background-color: hsl(0, 0%, 100%);
@@ -23,7 +23,7 @@ p {
   border-radius: 10px;
   width: 250px;
   height: auto;
-  box-shadow: 1px 1px 50px hsl(220, 15%, 55%);
+  box-shadow: 0px 5px 20px hsl(220, 15%, 55%);
 }
 
 .qr-code img {
