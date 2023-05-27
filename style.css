@@ -5,7 +5,7 @@ body {
   background-color: hsl(0, 0%, 100%);
   display: block;
   margin: 0 auto;
-  padding: 10px;
+  padding: 12px;
   border-radius: 10px;
   width: 250px;
   height: auto;
@@ -13,9 +13,12 @@ body {
 .qr-wrapper {
   background-color: hsl(218, 44%, 22%);
   color: hsl(0, 0%, 100%);
+  padding: 5rem;
+  border-radius: 7px;
 }
 
 .attribution {
+  margin: 10px;
   font-size: 11px;
   text-align: center;
 }
